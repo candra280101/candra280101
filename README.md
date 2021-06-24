@@ -1,8 +1,5 @@
-- 👋 Hi, Sayang ku viona
-- 🥺🥺 Aku kangen bangettt sama kamu
-- 😘😘 Sayang banget sama kamu
-- 💞️ Pokoknya Big loveee buat viona kuuu
-- ❤️😘 I Love You sayangku
+- 👋 Hi, my name is candra
+
 
 <!---
 candra280101/candra280101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
